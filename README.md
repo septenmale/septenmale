@@ -1,15 +1,12 @@
 # 👋 Hello there! Welcome to my GitHub profile!
 
-I'm an **iOS Developer** passionate about building user-friendly and visually appealing applications. I genuinely enjoy what I do and am constantly striving to improve my skills and create **clean, maintainable code**.
+I'm an **iOS Developer** passionate about building user-friendly and visually appealing applications. I enjoy what I do and am constantly striving to improve my skills and create **clean, maintainable code**.
 
 ### 🌟 A little about me:
 - 💻 I specialize in developing iOS apps using Swift.
 - 🎯 I’m committed to writing clean, scalable, and efficient code.
 - 📚 Lifelong learner — always exploring new tools, technologies, and best practices.
 - 🤝 Open to collaboration and eager to connect with like-minded developers.
-
-### 🚀 What I’m currently working on:
-I’m currently developing a **habit-tracking app** that helps users build and maintain positive routines, leveraging the MVVM architecture to ensure code quality and scalability.
 
 ### 🌐 Let's Connect!
 Feel free to reach out — I’m always happy to discuss coding, projects, or new opportunities!  
