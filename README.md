@@ -8,6 +8,11 @@ I'm an **iOS Developer** passionate about building user-friendly and visually ap
 - 📚 Lifelong learner — always exploring new tools, technologies, and best practices.
 - 🤝 Open to collaboration and eager to connect with like-minded developers.
 
+### 🚀 Currently Working On
+
+I’m currently part of a **team project** focused on building a FakeNFT iOS app — a multi-screen application that allows users to browse, buy, and manage NFTs in a simulated marketplace.
+We’re working with **Kanban board workflow**, clearly defined roles and responsibilities, and modern technologies such as SwiftUI, MVVM, and API integration.
+
 ### 🌐 Let's Connect!
 Feel free to reach out — I’m always happy to discuss coding, projects, or new opportunities!  
 📩 **Email**: [zavhorodnii.viktor@icloud.com](mailto:zavhorodnii.viktor@icloud.com)  
